@@ -1,0 +1,2 @@
+pygame toevoegen aan de github
+serial toevoegen aan de github
